@@ -1,4 +1,21 @@
 # Basic if
+# if with else
+# if-else if-else
+# Nested if
+# One-line if
+# if with logical operator (&,|,!)
+# if with short-circuit operators(&&,||)
+# Returning values from if
+# if inside a function()
+# if with stop()
+# Vectorized alternative : ifelse
+# if inside loops = Itération
+# Common mistakes with if (Vectors,NA)
+# Conclusion
+
+########################################
+
+# Basic if
 
 crp <- 50  # mg/l
 if ( crp > 10 ) {
